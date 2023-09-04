@@ -36,9 +36,6 @@ The script works as follows:
 
 - Using the encryption key, the script decrypts the passwords and displays the results.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
